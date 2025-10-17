@@ -22,7 +22,7 @@ const Hero = () => {
   <div className="absolute inset-0 bg-neutral-900/60" />
       </div>
 
-  <div className="relative z-10 w-full text-center md:text-left animate-fade-in flex flex-col items-center md:items-start px-6 md:px-20">
+  <div className="relative z-10 w-full text-center md:text-left animate-fade-in flex flex-col items-center md:items-start px-6 md:px-20" style={{ transform: 'translate(5cm, 5cm)' }}>
         <h1 className="font-black-mango text-4xl md:text-7xl font-bold text-white mb-6 leading-tight max-w-2xl">
           {t('hero.title')}
         </h1>
