@@ -98,15 +98,15 @@ const Contact = () => {
           {/* Social Block */}
           <div className="space-y-4 pt-6 animate-slide-up">
             <a
-              href="mailto:contacto@prdesign.es"
+              href="mailto:info@paolarossdesign.es"
               className="flex items-center gap-3 text-muted-foreground hover:text-foreground transition-colors"
             >
               <Mail className="w-5 h-5 text-primary" />
-              <span className="font-inter">contacto@prdesign.es</span>
+              <span className="font-inter">info@paolarossdesign.es</span>
             </a>
             <div className="flex gap-4 pt-4">
               <a
-                href="https://wa.me/34123456789"
+                href="https://wa.me/34644941495"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center hover:bg-primary/20 transition-colors"
